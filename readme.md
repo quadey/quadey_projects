@@ -13,7 +13,7 @@ Grow crops and manage your virtual farm with our advanced farming system.
 
 ---
 
-## 🎵 SpotifyMatch Discord Bot 🎧
+## 🎵 SpotiMatch Discord Bot 🎧
 
 Match with users who are listening to the same song and engage in anonymous
 chat.
